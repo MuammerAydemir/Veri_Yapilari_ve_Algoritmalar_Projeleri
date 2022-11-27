@@ -55,3 +55,5 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 4) root 5'dir. root'un sağında 6 bulunur. Solunda 2 bulunur.
 5) root 2'dir. root'un sağında 7 bulunur. Solunda 4 bulunur.
 ```
+
+[www.patika.dev](https://app.patika.dev/muammeraydemir)
